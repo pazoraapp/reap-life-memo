@@ -1,2 +1,2 @@
-# reap-life-memo
-Daily bible quote 
+# reap-life
+Christ Word Life
